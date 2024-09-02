@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|c:\\users\\siken\\downloads\\compressed\\assignment hacker\\assets\\passwordcomplexitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\passwordcomplexitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|c:\\users\\siken\\downloads\\compressed\\assignment hacker\\assets\\tailgatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\tailgatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|c:\\users\\siken\\downloads\\compressed\\assignment hacker\\assets\\phishingattackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\phishingattackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\assets\\scripts\\mainmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|c:\\users\\siken\\downloads\\compressed\\assignment hacker\\assets\\scripts\\playfabhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playfabhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\assets\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E1918-2DF7-B342-E287-D7ACCEDE2305}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passwordComplexityManager.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\passwordComplexityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\passwordComplexityManager.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\passwordComplexityManager.cs",
+              "RelativeToolTip": "Assets\\passwordComplexityManager.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAUwJ8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:52:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "phishingAttackManager.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\phishingAttackManager.cs",
+              "RelativeDocumentMoniker": "Assets\\phishingAttackManager.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\phishingAttackManager.cs",
+              "RelativeToolTip": "Assets\\phishingAttackManager.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAtwHMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:51:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tailgateManager.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\tailgateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\tailgateManager.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\tailgateManager.cs",
+              "RelativeToolTip": "Assets\\tailgateManager.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:43:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:56:21.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayFabHandler.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\PlayFabHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayFabHandler.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\PlayFabHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayFabHandler.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAIAwwFQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:55:54.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameData.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:54:23.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\MainMenuHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuHandler.cs",
+              "ToolTip": "C:\\Users\\siken\\Downloads\\Compressed\\Assignment Hacker\\Assets\\Scripts\\MainMenuHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuHandler.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA3wGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:33:42.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
